@@ -1,4 +1,4 @@
-/// ================  MERGE SORT ALGORITHM ==================
+/// ================  MERGE SORT ALGORITHM =================
 
 #include <iostream>
 using namespace std;
