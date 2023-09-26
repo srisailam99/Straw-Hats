@@ -1,4 +1,4 @@
-/// ============== COUNT SORT ALGO ================ 
+/// ============== COUNT SORT ALGORITHM ================ 
 #include <iostream>
 #include <vector>
 #include <climits>
